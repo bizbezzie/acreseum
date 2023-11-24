@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/bizbezzi/acreseum
+    - export DEPLOYPATH=/home/bizbezzi
     - /bin/cp -R * $DEPLOYPATH
